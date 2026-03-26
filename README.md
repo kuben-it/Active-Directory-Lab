@@ -13,7 +13,7 @@ Her finner du instruksjoner og eksempel-dokumentasjon for et Windows-basert nett
 ### Maskin 1. Domain Controller (DC1)
 * OS: Windows Server
 * Tjenester/roller: Active Directory, DNS, DHCP
-* IP: 192.168.10.10
+* IP: 192.168.10.1
 
 ### Maskin 2. Klient (CL1)
 * OS: Windows 10
@@ -35,9 +35,8 @@ Her finner du instruksjoner og eksempel-dokumentasjon for et Windows-basert nett
 * Back-up domenekontroller
 
 ## Læringsmål
-Dette er ting du kan bruke og forklare når du har satt opp ditt eget system er ferdig:
+Dette er ting du kan bruke og forklare når du har satt opp ditt eget system:
 * AD, AD DS, DC
 * DNS, DHCP
 * Group Policy, Group Policy Object, Organizational Unit
 * Subnet
-
