@@ -5,7 +5,7 @@ Her finner du instruksjoner og eksempel-dokumentasjon for et Windows-basert nett
 1. Oppsett - DONE✅
 2. Domenekontroller (Windows Server) - DONE✅
 3. DHCP - DONE ✅
-4. Klienter - WIP 🏗️
+4. Klienter - DONE ✅
 5. Fildeling - coming soon... ❌
 6. GPO - coming soon... ❌
 
