@@ -1,5 +1,5 @@
 # Active Directory-lab
-Her finner du instruksjoner og eksempel-dokumentasjon for et Windows-basert nettverk av virtuelle maskiner ved hjelp av Active Directory Domain Services (AD DS). 
+Her finner du instruksjoner og eksempel-dokumentasjon for et Windows-basert nettverk av virtuelle maskiner ved hjelp av Active Directory Domain Services (AD DS). Instruksjonene finner du i /docs.
 
 ## Status
 1. Oppsett - DONE✅
